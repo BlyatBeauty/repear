@@ -1,6 +1,6 @@
 This fork of RePear is identical to the original, just bundled with the .NET Framework DLL files needed to run the executable version on Windows.
 
-================================================================================================
+===========================================================================
 
 rePear is a tool that allows using an Apple iPod audio player without iTunes. The user can manage the audio files on the iPod with a normal file manager and rePear takes care that they can be played on the device.
 
